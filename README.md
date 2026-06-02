@@ -147,5 +147,6 @@ Possible extensions include:
 * Automatic generation of summary statistics and plots.
 
 ## Author
-Edward Ying | Department of Life Sciences | Imperial College London
+Edward Ying | Imperial College London, Biology
+
 Developed as an extension of a variant annotation practical to improve exploration and interpretation of SnpEff-annotated VCF files.
