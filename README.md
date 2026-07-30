@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script extracts and summarizes variant annotations from a SnpEff-annotated VCF file. It was developed as an extension of the variant annotation practical to provide a more flexible and informative method for investigating variants within a genomic region of interest.
+This Python script Variant_Annotation.py extracts and summarizes variant annotations from a SnpEff-annotated VCF file. It was developed as an extension of the variant annotation practical to provide a more flexible and informative method for investigating variants within a genomic region of interest.
 
 Unlike the original practical script, which only reports missense variants and prints results directly to the terminal, this implementation:
 
