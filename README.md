@@ -1,8 +1,8 @@
 # Improved SNP Annotation Parser for SnpEff-Annotated VCF Files
 
-## OverviewTool 1: Improved SNP Annotation Parser
+## Overview
 
-This Python script Variant_Annotation.py extracts and summarizes variant annotations from a SnpEff-annotated VCF file. It was developed as an extension of the variant annotation practical to provide a more flexible and informative method for investigating variants within a genomic region of interest. The Variant_Prioritization_Engine.py script ranks variants by clinical actionability using multi-evidence scoring.
+The Python script Introduce_nucleotide_change.py modifies a specific position in a FASTA sequence by replacing the nucleotide at a user-specified position. The script Variant_Annotation.py extracts and summarizes variant annotations from a SnpEff-annotated VCF file. It was developed as an extension of the variant annotation practical to provide a more flexible and informative method for investigating variants within a genomic region of interest. The Variant_Prioritization_Engine.py script ranks variants by clinical actionability using multi-evidence scoring.
 
 Unlike the original practical script, which only reports missense variants and prints results directly to the terminal, this implementation:
 
