@@ -1034,7 +1034,7 @@ All research findings should be independently reviewed and validated using appro
 **Edward Ying**
 Imperial College London
 
-Developed as an extension of a genomic annotation practical to explore FASTA manipulation, SnpEff annotation parsing, and transparent variant-ranking workflows.
+Developed as an extension of a genomic annotation practical organised by Dr. Derek Huntley to explore FASTA manipulation, SnpEff annotation parsing, and transparent variant-ranking workflows.
 
 ---
 
