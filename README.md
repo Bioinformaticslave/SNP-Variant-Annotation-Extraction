@@ -889,6 +889,7 @@ Do not upload identifiable patient VCF files or protected health information to 
 | Clinical validation                | Not performed   |
 
 This pipeline can be complemented with the pipeline on https://github.com/Bioinformaticslave/genomic-medicine-portfolio which focuses on clinical significance of variants from unannotated VCF. 
+
 ---
 
 ## Roadmap
