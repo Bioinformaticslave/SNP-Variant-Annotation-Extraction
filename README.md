@@ -958,20 +958,20 @@ Contributions should prioritize:
 ## References
 
 1. Cingolani, P. et al.
-   *A program for annotating and predicting the effects of single nucleotide polymorphisms, SnpEff.*
-   Fly, 2012.
+   A program for annotating and predicting the effects of single nucleotide polymorphisms, SnpEff.
+   *Fly*, 2012.
 
 2. Landrum, M. J. et al.
-   *ClinVar: public archive of relationships among sequence variation and human phenotype.*
-   Nucleic Acids Research, 2014.
+   ClinVar: public archive of relationships among sequence variation and human phenotype.
+   *Nucleic Acids Research*, 2014.
 
 3. Karczewski, K. J. et al.
-   *The mutational constraint spectrum quantified from variation in 141,456 humans.*
-   Nature, 2020.
+   The mutational constraint spectrum quantified from variation in 141,456 humans.
+   *Nature*, 2020.
 
 4. Richards, S. et al.
-   *Standards and guidelines for the interpretation of sequence variants.*
-   Genetics in Medicine, 2015.
+   Standards and guidelines for the interpretation of sequence variants.
+   *Genetics in Medicine*, 2015.
 
 ---
 
