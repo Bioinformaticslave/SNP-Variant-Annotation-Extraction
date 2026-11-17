@@ -938,28 +938,6 @@ This pipeline can be complemented with the pipeline on https://github.com/Bioinf
 
 Contributions and issue reports are welcome.
 
-A typical workflow is:
-
-```bash
-git checkout -b feature/improve-vcf-parsing
-```
-
-After making and testing changes:
-
-```bash
-git add .
-git commit -m "Improve multiallelic VCF handling"
-git push origin feature/improve-vcf-parsing
-```
-
-Then open a pull request describing:
-
-* The problem addressed
-* The implementation
-* Example input and output
-* Tests performed
-* Remaining limitations
-
 ---
 
 ## Development Principles
